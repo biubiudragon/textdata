@@ -3,3 +3,4 @@
 
 **开始学习gitup**
 
+print
